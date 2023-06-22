@@ -7,7 +7,6 @@ import time
 import pdb
 import plotly.express as px
 
-
 sales = pd.read_csv("dataset/sales.csv", delimiter=";", index_col="year")
 settheme = pd.read_csv("dataset/dfsettheme4.csv", delimiter=",")
 allset = pd.read_csv("dataset/90allset.csv", delimiter=",")
