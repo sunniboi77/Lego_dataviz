@@ -1,0 +1,459 @@
+set_num,name,year,theme_id,num_parts,id,has_parent_id,parent_id,parent_id_name,theme_name,count,cat1,cat2,cat3,brandname,studio,5year,decade,Cluster,scaled_num_parts
+30542-1,Cute Pug,2018,672,68.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-1.1255798059986168
+30571-1,Pelican,2019,672,62.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-1.161460452329869
+30574-1,Cat,2020,672,55.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-1.2033212063829966
+30578-1,German Shepherd,2021,672,76.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-1.0777389442236138
+30581-1,Tropical Parrot,2022,672,66.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-1.1375400214423674
+30641-1,Panda,2023,672,83.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-1.0358781901704863
+31000-1,Mini Speeder,2013,672,65.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.143520129164243
+31001-1,Mini Skyflyers,2013,672,62.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.161460452329869
+31002-1,Super Racer,2013,672,121.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.8086340967392224
+31003-1,Red Rotors,2013,672,145.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.6651115114142135
+31004-1,Fierce Flyer,2013,672,166.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.5395292492548308
+31005-1,Construction Hauler,2013,672,256.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.0013195542860477375
+31006-1,Highway Speedster,2013,672,286.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.17808367737021327
+31007-1,Power Mech,2013,672,223.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.19866310910793486
+31008-1,Thunder Wings,2013,672,235.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.12690181644543044
+31009-1,Small Cottage,2013,672,271.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.08838206154208277
+31010-1,Treehouse,2013,672,356.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.5966912179014889
+31011-1,Aviation Adventures,2013,672,620.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,2.175439656476586
+31012-1,Family House,2013,672,756.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,3,-0.987062379920939
+31013-1,Red Thunder,2014,672,66.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.1375400214423674
+31014-1,Power Digger,2014,672,64.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.1495002368861182
+31015-1,Emerald Express,2014,672,56.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.1973410986611213
+31017-1,Sunset Speeder,2014,672,119.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.8205943121829731
+31018-1,Highway Cruiser,2014,672,129.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.7607932349642194
+31019-1,Forest Animals,2014,672,272.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.09436216926395814
+31020-1,Twinblade Adventures,2014,672,216.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.24052386316106242
+31021-1,Furry Creatures,2014,672,285.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.17210356964833792
+31022-1,Turbo Quad,2014,672,186.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.41992709481732343
+31023-1,Yellow Racers,2014,672,328.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.4292482016889787
+31024-1,Roaring Power,2014,672,374.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.7043331568952456
+31025-1,Mountain Hut,2014,672,550.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,1.7568321159453102
+31026-1,Bike Shop & Cafe,2014,672,1023.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,3,-0.135699514816224
+31027-1,Blue Racer,2015,672,67.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-1.1315599137204921
+31028-1,Sea Plane,2015,672,53.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-1.2152814218267474
+31029-1,Cargo Heli,2015,672,132.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.7428529117985933
+31030-1,Red Go-Kart,2015,672,106.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.8983357125673528
+31031-1,Rainforest Animals,2015,672,215.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.2465039708829378
+31032-1,Red Creatures,2015,672,221.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.2106233245516856
+31033-1,Vehicle Transporter,2015,672,264.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.0465213074889552
+31034-1,Future Flyer,2015,672,237.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.11494160100167972
+31035-1,Beach Hut,2015,672,286.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.17808367737021327
+31036-1,Toy & Grocery Shop,2015,672,466.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,1.2545030673077795
+31037-1,Adventure Vehicles,2015,672,282.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.15416324648271182
+31038-1,Changing Seasons,2015,672,536.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,1.6731106078390552
+31039-1,Blue Power Jet,2015,672,608.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,2.1036783638140815
+31040-1,Desert Racers,2016,672,65.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-1.143520129164243
+31041-1,Construction Vehicles,2016,672,64.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-1.1495002368861182
+31042-1,Super Soarer,2016,672,100.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.934216358898605
+31043-1,Chopper Transporter,2016,672,124.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.7906937735735963
+31044-1,Park Animals,2016,672,202.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.32424537126731756
+31045-1,Ocean Explorer,2016,672,213.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.25846418632668855
+31046-1,Fast Car,2016,672,222.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.20464321682981024
+31047-1,Propeller Plane,2016,672,230.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.15680235505480727
+31048-1,Lakeside Lodge,2016,672,370.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.6804127260077442
+31049-1,Twin Spin Helicopter,2016,672,326.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.41728798624522795
+31050-1,Corner Deli,2016,672,467.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,1.2604831750296548
+31051-1,Lighthouse Point,2016,672,528.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,1.6252697460640522
+31052-1,Vacation Getaways,2016,672,792.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,3,-0.8722718812551348
+31053-1,Treehouse Adventures,2016,672,387.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.7820745572796254
+31054-1,Blue Express,2017,672,71.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-1.1076394828329907
+31055-1,Red Racer,2017,672,72.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-1.1016593751111152
+31056-1,Green Cruiser,2017,672,122.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.802653989017347
+31057-1,Air Blazer,2017,672,102.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.9222561434548543
+31058-1,Mighty Dinosaurs,2017,672,174.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.49168838747982785
+31059-1,Sunset Street Bike,2016,672,194.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.3720862330423205
+31060-1,Airshow Aces,2016,672,246.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.06112063150480141
+31062-1,Robo Explorer,2017,672,205.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.30630504810169146
+31063-1,Beachside Vacation,2017,672,275.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.11230249242958425
+31064-1,Island Adventures,2017,672,359.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.614631541067115
+31065-1,Park Street Townhouse,2017,672,566.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,1.8525138394953162
+31066-1,Space Shuttle Explorer,2017,672,285.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.17210356964833792
+31067-1,Modular Poolside Holiday,2017,672,356.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.5966912179014889
+31068-1,Modular Modern Home,2017,672,386.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.77609444955775
+31069-1,Modular Family Villa,2017,672,728.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,3,-1.0763438788832314
+31070-1,Turbo Track Racer,2017,672,670.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,3,-1.2612841267336936
+31071-1,Drone Explorer,2018,672,109.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.8803953894017267
+31072-1,Extreme Engines,2018,672,109.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.8803953894017267
+31073-1,Mythical Creatures,2018,672,223.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.19866310910793486
+31074-1,Rocket Rally Car,2018,672,241.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.09102117011417825
+31075-1,Outback Adventures,2018,672,225.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.18670289366418413
+31076-1,Daredevil Stunt Plane,2018,672,200.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.3362055867110683
+31077-1,Modular Sweet Surprises,2018,672,396.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.8358955267765037
+31078-1,Tree House Treasures,2018,672,260.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.022600876601453733
+31079-1,Sunshine Surfer Van,2018,672,379.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.7342336955046225
+31080-1,Modular Winter Vacation,2018,672,374.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.7043331568952456
+31081-1,Modular Skate House,2018,672,422.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.9913783275452632
+31083-1,Cruising Adventures,2018,672,597.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,2.0378971788734526
+31084-1,Pirate Roller Coaster,2018,672,923.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,3,-0.4545620111101248
+31085-1,Mobile Stunt Show,2018,672,581.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,1.9422154553234465
+31086-1,Futuristic Flyer,2019,672,157.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.5933502187517091
+31087-1,Dune Buggy,2019,672,147.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.6531512959704627
+31088-1,Deep Sea Creatures,2019,672,230.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.15680235505480727
+31089-1,Sunset Track Racer,2019,672,221.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.2106233245516856
+31090-1,Underwater Robot,2019,672,207.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.29434483265794076
+31091-1,Shuttle Transporter,2019,672,341.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.5069896020733585
+31092-1,Helicopter Adventure,2019,672,114.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.8504948507923499
+31093-1,Riverside Houseboat,2019,672,396.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.8358955267765037
+31094-1,Race Plane,2019,672,333.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.45914874029835556
+31095-1,Fairground Carousel,2019,672,595.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,2.025936963429702
+31096-1,Twin-Rotor Helicopter,2019,672,569.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,1.870454162660942
+31097-1,Townhouse Pet Shop & Café,2019,672,969.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,3,-0.3078852628149304
+31098-1,Outback Cabin,2019,672,305.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,0.2917057240858453
+31099-1,Propeller Plane,2020,672,128.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.7667733426860948
+31100-1,Sports Car,2020,672,134.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.7308926963548426
+31101-1,Monster Truck,2020,672,163.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.5574695724204569
+31102-1,Fire Dragon,2020,672,234.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.13288192416730582
+31103-1,Rocket Truck,2020,672,198.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.348165802154819
+31104-1,Monster Burger Truck,2020,672,499.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.4518466221296664
+31105-1,Townhouse Toy Store,2020,672,554.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.7807525468328118
+31107-1,Space Rover Explorer,2020,672,510.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.5176278070702955
+31108-1,Caravan Family Holiday,2020,672,766.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,3,-0.955176130291549
+31109-1,Pirate Ship,2020,672,1262.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,3,0.6263818513261988
+31111-1,Cyber Drone,2021,672,113.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.8564749585142253
+31112-1,Wild Lion,2021,672,224.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.19268300138605948
+31113-1,Race Car Transporter,2021,672,328.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,0.4292482016889787
+31114-1,Superbike,2021,672,236.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.12092170872355508
+31115-1,Space Mining Mech,2021,672,327.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,0.42326809396710335
+31116-1,Safari Wildlife Tree House,2021,672,397.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,0.8418756344983791
+31117-1,Space Shuttle Adventure,2021,672,486.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.3741052217452867
+31118-1,Surfer Beach House,2021,672,564.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.8405536240515654
+31119-1,Ferris Wheel,2021,672,1002.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,3,-0.20266063903794318
+31120-1,Medieval Castle,2021,672,1426.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,3,1.149316345248196
+31121-1,Crocodile,2021,672,454.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.182741774645275
+31122-1,Fish Tank,2021,672,352.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,0.5727707870139875
+31123-1,Off-road Buggy,2022,672,160.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.575409895586083
+31124-1,Super Robot,2022,672,159.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.5813900033079583
+31125-1,Fantasy Forest Creatures,2022,672,175.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.4857082797579525
+31126-1,Supersonic-jet,2022,672,215.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.2465039708829378
+31127-1,Street Racer,2022,672,258.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,0.010640661157702997
+31128-1,Dolphin and Turtle,2022,672,137.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.7129523731892164
+31129-1,Majestic Tiger,2022,672,755.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,3,-0.9902510048838781
+31130-1,Sunken Treasure Mission,2022,672,522.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.5893890997328
+31131-1,Downtown Noodle Shop,2022,672,569.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.870454162660942
+31132-1,Viking Ship and the Midgard Serpent,2022,672,1192.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,3,0.40317810392046827
+31133-1,White Rabbit,2023,672,258.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,0.010640661157702997
+31134-1,Space Shuttle,2023,672,144.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.6710916191360888
+31135-1,Vintage Motorcycle,2023,672,128.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.7667733426860948
+31136-1,Exotic Parrot,2023,672,253.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.01925987745167384
+31137-1,Adorable Dogs,2023,672,475.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.3083240368046576
+31138-1,Beach Camper Van,2023,672,556.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.7927127622765624
+31139-1,Cozy House,2023,672,809.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,3,-0.8180652568851716
+31140-1,Magical Unicorn,2023,672,145.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.6651115114142135
+31143-1,Birdhouse,2023,672,476.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,1.314304144526533
+40251-1,Mini Piggy Bank,2017,672,248.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2015,2010,1,-0.04916041606105068
+40562-1,Mystic Witch,2022,672,257.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,0.00466055343582763
+4837-1,Mini Trains,2008,672,73.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-1.09567926738924
+4838-1,Mini Vehicles,2008,672,79.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-1.0597986210579877
+4895-1,Motion Power,2006,672,613.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,2.1335789024234586
+4896-1,Roaring Roadsters,2006,672,931.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,-0.4290530114066127
+4915-1,Mini Construction,2007,672,68.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-1.1255798059986168
+4916-1,Mini Animals,2007,672,77.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-1.0717588365017385
+4917-1,Mini Robots,2007,672,77.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-1.0717588365017385
+4918-1,Mini Flyers,2007,672,76.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-1.0777389442236138
+4939-1,Cool Cars,2007,672,206.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-0.3003249403798161
+4953-1,Fast Flyers,2007,672,305.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,0.2917057240858453
+4954-1,Model Town House,2007,672,1174.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,0.34578285458756614
+4955-1,Big Rig,2007,672,550.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,1.7568321159453102
+4956-1,House,2007,672,731.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,-1.0667780039944141
+4957-1,Ferris Wheel,2007,672,1065.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,-0.0017772663727856882
+4958-1,Monster Dino,2007,672,792.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,-0.8722718812551348
+4993-1,Cool Convertible,2008,672,648.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,2.3428826726890963
+4994-1,Fierce Creatures,2008,672,193.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-0.3780663407641959
+4995-1,Cargo Copter,2008,672,272.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,0.09436216926395814
+4996-1,Beach House,2008,672,522.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,1.5893890997328
+4997-1,Transport Ferry,2008,672,1279.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,0.680588475696162
+4998-1,Stegosaurus,2008,672,731.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,-1.0667780039944141
+5761-1,Mini Digger,2011,672,57.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.1913609909392457
+5762-1,Mini Plane,2011,672,52.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.2212615295486227
+5763-1,Dune Hopper,2011,672,137.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.7129523731892164
+5764-1,Rescue Robot,2011,672,150.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.6352109728048366
+5765-1,Transport Truck,2011,672,276.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.11828260015145961
+5766-1,Log Cabin,2011,672,355.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.5907111101796136
+5767-1,Cool Cruiser,2011,672,621.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,2.1814197641984614
+5770-1,Lighthouse Island,2011,672,519.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,1.5714487765671739
+5771-1,Hillside House,2011,672,714.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,3,-1.1209846283643774
+5864-1,Mini Helicopter,2010,672,52.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.2212615295486227
+5865-1,Mini Dumper,2010,672,60.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.1734206677736196
+5866-1,Rotor Rescue,2010,672,149.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.641191080526712
+5867-1,Super Speedster,2010,672,278.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.13024281559521034
+5868-1,Ferocious Creatures,2010,672,416.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.955497681214011
+5891-1,Apple Tree House,2010,672,539.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,1.6910509310046813
+5892-1,Sonic Boom,2010,672,539.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,1.6910509310046813
+5893-1,Offroad Power,2010,672,1061.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,3,-0.014531766224541718
+6741-1,Mini Jet,2009,672,63.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-1.1554803446079935
+6742-1,Mini Off-Roader,2009,672,64.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-1.1495002368861182
+6743-1,Street Speeder,2009,672,165.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-0.5455093569767061
+6745-1,Propeller Power,2009,672,247.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,-0.05514052378292604
+6747-1,Race Rider,2009,672,266.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,0.058481522932705934
+6751-1,Fiery Legend,2009,672,479.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,1,1.3322444676921592
+6752-1,Fire Truck,2009,672,771.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,-0.939233005476854
+6753-1,Highway Transport,2009,672,1294.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,0.7284178501402471
+6754-1,Family Home,2009,672,978.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2005,2000,3,-0.27918763814847936
+6910-1,Mini Sports Car,2012,672,70.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.113619590554866
+6911-1,Mini Fire Truck,2012,672,69.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-1.1195996982767413
+6912-1,Super Soarer,2012,672,130.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.7548131272423441
+6913-1,Blue Roadster,2012,672,152.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.6232507573610859
+6914-1,Prehistoric Hunters,2012,672,191.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.39002655620794663
+7291-1,Street Rebel,2012,672,196.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.36012601759856977
+7292-1,Propeller Adventures,2012,672,244.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,-0.07308084694855214
+7345-1,Transport Chopper,2012,672,383.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.7581541263921239
+7346-1,Seaside House,2012,672,415.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,1,0.9495175734921356
+7347-1,Highway Pickup,2012,672,805.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2010,2010,3,-0.8308197567369277
+77940-1,Mighty Dinosaurs - Brown Version,2021,672,174.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.49168838747982785
+77941-1,Mighty Dinosaurs - Blue Version,2021,672,174.0,672,1,22,Creator,Creator 3-in-1,1,main,Creator,Creator 3-in-1,subset,notgiven,2020,2020,1,-0.49168838747982785
+10024-1,Red Baron,2002,673,670.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2000,2000,3,-1.2612841267336936
+10124-1,Wright Flyer,2003,673,663.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2000,2000,3,-1.2836045014742667
+10152-1,Maersk Sealand Container Ship 2004 Edition,2004,673,988.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2000,2000,3,-0.24730138851908928
+10152-2,Maersk Sealand Container Ship 2005 Edition,2005,673,988.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,3,-0.24730138851908928
+10152-3,Maersk Line Container Ship 2006 Edition,2006,673,988.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,3,-0.24730138851908928
+10155-1,Maersk Line Container Ship 2010 Edition,2010,673,990.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,-0.24092413859321127
+10173-1,Holiday Train,2006,673,969.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,3,-0.3078852628149304
+10177-1,Boeing 787 Dreamliner,2006,673,1197.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,3,0.41912122873516333
+10181-1,Eiffel Tower 1:300,2007,673,3428.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,2,-0.6017008252090477
+10187-1,Volkswagen Beetle,2008,673,1626.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,3,1.7870413378359975
+10189-1,Taj Mahal,2008,673,5922.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,2,1.7603987467591002
+10194-1,Emerald Night,2009,673,1089.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,3,0.0747497327377505
+10196-1,Grand Carousel,2009,673,3261.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,2,-0.7598686794667384
+10213-1,Shuttle Adventure,2010,673,1204.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,0.44144160347573635
+10214-1,Tower Bridge,2010,673,4295.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,2,0.2194460588712989
+10219-1,Maersk Container Train,2011,673,1233.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,0.5339117274009676
+10220-1,Volkswagen T1 Camper Van,2011,673,1332.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,0.8495855987319294
+10226-1,Sopwith Camel,2012,673,879.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,-0.594861509479441
+10231-1,Shuttle Expedition,2011,673,1230.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,0.5243458525121506
+10233-1,Horizon Express,2013,673,1351.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,0.9101694730277705
+10234-1,Sydney Opera House,2013,673,2989.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,2,-1.0174833881978276
+10241-1,Maersk Line Triple-E,2014,673,1518.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,1.4426698418385848
+10242-1,MINI Cooper,2014,673,1077.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,0.036486233182482404
+10242-2,MINI Cooper (Late 2015 Re-Issue),2015,673,1077.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,0.036486233182482404
+10244-1,Fairground Mixer,2014,673,1745.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2010,2010,3,2.1664877084257395
+10247-1,Ferris Wheel,2015,673,2464.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,4.459109056778886
+10248-1,Ferrari F40,2015,673,1158.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,0.294764855180542
+10252-1,Volkswagen Beetle,2016,673,1167.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,0.3234624798469931
+10253-1,Big Ben,2016,673,4167.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,2,0.09821560770372756
+10256-1,Taj Mahal,2017,673,5923.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,2,1.761345859658847
+10257-1,Carousel,2017,673,2670.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,2,-1.3196124032170091
+10258-1,London Bus,2017,673,1686.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,1.978358835612338
+10261-1,Roller Coaster,2018,673,4080.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,2,0.015816785425768903
+10262-1,James Bond Aston Martin DB5,2018,673,1297.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,0.7379837250290641
+10265-1,Ford Mustang,2019,673,1471.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,1.2928044685804514
+10266-1,NASA Apollo 11 Lunar Lander,2019,673,1087.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,0.06837248281187248
+10268-1,Vestas Wind Turbine,2018,673,834.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,-0.7383496328116964
+10269-1,Harley-Davidson Fat Boy,2019,673,1023.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,3,-0.135699514816224
+10271-1,Fiat 500,2020,673,960.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2020,2020,3,-0.3365828874813815
+10272-1,Old Trafford - Manchester United,2020,673,3898.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2020,2020,2,-0.1565577623281216
+3443-1,Mosaic,2000,673,857.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2000,2000,3,-0.6650112586640993
+3451-1,Sopwith Camel,2001,673,577.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2000,2000,1,1.9182950244359451
+4999-1,Vestas Windmill,2008,673,822.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,3,-0.7766131323669645
+77942-1,Fiat 500 - Bright Light Blue Version,2021,673,960.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2020,2020,3,-0.3365828874813815
+HARLEY-1,Harley-Davidson Mini Motorcycle,2019,673,71.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2015,2010,1,-1.1076394828329907
+K2159-1,Holiday Train Starter Collection,2006,673,29.0,673,1,22,Creator,Creator Expert,1,main,Creator,Creator Expert,subset,notgiven,2005,2000,1,-1.3588040071517562
+03093-1,The Race to Build It Board Game,1999,674,77.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,1995,1990,1,-1.0717588365017385
+4016-1,Racer,2001,674,21.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-1.406644868926759
+4017-1,Sea Helicopter,2001,674,13.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-1.454485730701762
+4018-1,Ship,2001,674,12.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-1.4604658384236373
+4019-1,Aeroplane,2001,674,17.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-1.4305652998142606
+4037-1,Helicopter,2004,674,9.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-1.4784061615892634
+4103-1,Fun with Bricks {small red bucket},2002,674,200.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.3362055867110683
+4104-1,Small Creator Bucket,2002,674,200.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.3362055867110683
+4105-1,Imagine and Build,2002,674,500.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,1.457826729851542
+4106-1,Large red bucket,2002,674,500.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,1.457826729851542
+4107-1,Build Your Dreams,2002,674,1000.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,3,-0.2090378889638212
+4113-1,Brick Adventures Small Bucket,2002,674,124.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.7906937735735963
+4115-1,All That Drives Bucket,2001,674,166.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.5395292492548308
+4116-1,Animal Adventures Bucket,2001,674,211.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.27042440177043925
+4117-1,Fantastic Flyers & Cool Cars Bucket,2001,674,266.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,0.058481522932705934
+4118-1,"Buildings, Mansions and Shops",2001,674,364.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,0.644532079676492
+4119-1,Regular & Transparent Bricks,2001,674,234.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.13288192416730582
+4120-1,Fun and Cool Transportation,2001,674,609.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,2.109658471535957
+4121-1,All Kinds of Animals,2001,674,174.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.49168838747982785
+4171-1,Spot & Friends,2001,674,53.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-1.2152814218267474
+4172-1,Tina's House,2001,674,44.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-1.2691023913236257
+4173-1,Max's Pitstop,2001,674,59.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-1.1794007754954952
+4174-1,Max Goes Flying,2001,674,173.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.4976684952017032
+4175-1,Adventures with Max & Tina,2001,674,219.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.2225835399954363
+4176-1,The Race of the Year,2001,674,326.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,0.41728798624522795
+4177-1,Building Stories with NaNa Bird,2001,674,384.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,0.7641342341139993
+4179-1,Large Creator Box,2002,674,500.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,1.457826729851542
+4250-1,Medium Creator Box,2001,674,234.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.13288192416730582
+4810-1,Blue Creator Bucket,2001,674,256.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.0013195542860477375
+7825-1,Creator Bucket,2002,674,500.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,1.457826729851542
+7830-1,Small Blue Bucket,2002,674,200.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.3362055867110683
+7831-1,Make-Believe Bucket,2002,674,200.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.3362055867110683
+7832-1,Small Blue Bucket,2002,674,200.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,-0.3362055867110683
+7837-1,Build and Create,2002,674,600.0,674,1,22,Creator,Early Creator,1,main,Creator,Early Creator,subset,notgiven,2000,2000,1,2.0558375020390787
+11938-1,Robot,2020,22,45.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.43637350392317636
+11939-1,Octopus,2020,22,63.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.29139146593748555
+11940-1,Fortress,2020,22,52.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3799916002620744
+11941-1,Frog,2020,22,56.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3477733695985875
+11942-1,Lunar Lander,2020,22,45.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.43637350392317636
+11943-1,Fire Ant,2020,22,25.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.5974646572406106
+11944-1,Skull,2021,22,39.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.4847008499184067
+11945-1,Steam Locomotive,2021,22,38.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.4927554075842784
+11946-1,Penguin,2021,22,48.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.41220983092556124
+11947-1,Time Machine,2021,22,39.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.4847008499184067
+11948-1,Carnivorous Plant,2021,22,43.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.4524826192549198
+11949-1,Parrot,2021,22,44.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.4444280615890481
+11950-1,Racing Car,2021,22,34.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.5249736382477652
+11951-1,Orangutan,2021,22,51.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3880461579279461
+11952-1,Wind Energy,2021,22,38.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.4927554075842784
+11953-1,Gecko,2021,22,36.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.5088645229160218
+11954-1,Spaceship,2021,22,40.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.47664629225253496
+11955-1,Lion,2021,22,47.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.42026438859143295
+11961-1,Helicopter,2022,22,40.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.47664629225253496
+11962-1,Robot,2022,22,41.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.46859173458666326
+11963-1,Dinosaur,2022,22,51.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3880461579279461
+11964-1,Submarine,2022,22,31.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.5491373112453803
+11965-1,Excavator,2022,22,48.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.41220983092556124
+11966-1,Pirate Ship,2022,22,33.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.5330281959136369
+11967-1,Dragon,2022,22,58.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3316642542668441
+11968-1,Spider,2022,22,40.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.47664629225253496
+11969-1,Fire Vehicle,2022,22,28.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.5733009842429955
+11974-1,Polar Bear,2023,22,56.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3477733695985875
+11975-1,Tractor,2023,22,25.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.5974646572406106
+11976-1,Spaceship,2023,22,45.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.43637350392317636
+11977-1,Hammerhead Shark,2023,22,40.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.47664629225253496
+11978-1,Viking Ship,2023,22,48.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.41220983092556124
+1270-2,Trial Size Bag - Chromika,2005,22,16.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.6699556762334561
+20001-1,BrickMaster,2007,22,103.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,0.030790840697382967
+20003-1,Dinosaur,2008,22,102.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,0.022736283031511255
+20008-1,Tow Truck,2009,22,79.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.16251854328353815
+20011-1,Garbage Truck,2009,22,74.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.2027913316128967
+20014-1,4 x 4 Dynamo,2010,22,69.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.24306411994225527
+20015-1,Crocodile,2010,22,89.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.08197296662482101
+30020-1,Jet,2010,22,43.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.4524826192549198
+30021-1,Parrot,2010,22,48.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.41220983092556124
+30022-1,Bee,2011,22,23.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.613573772572354
+30023-1,Lighthouse,2011,22,25.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.5974646572406106
+30024-1,Truck,2011,22,56.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.3477733695985875
+30025-1,Clown Fish,2011,22,59.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.3236096966009724
+30026-1,Panda,2011,22,61.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.30750058126922897
+30027-1,Reindeer,2011,22,66.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.2672277929398704
+30180-1,Twin Prop,2012,22,45.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.43637350392317636
+30181-1,Helicopter,2012,22,52.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.3799916002620744
+30183-1,Little Car,2013,22,50.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.3961007155938178
+30184-1,Little Helicopter,2013,22,56.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.3477733695985875
+30185-1,Little Eagle,2013,22,48.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.41220983092556124
+30187-1,Fast Car,2014,22,56.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.3477733695985875
+30188-1,Cute Kitten,2014,22,54.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.363882484930331
+30189-1,Transport Plane,2014,22,49.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.40415527325968953
+30283-1,Off-Road,2015,22,43.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.4524826192549198
+30284-1,Tractor,2015,22,51.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.3880461579279461
+30285-1,Tiger,2015,22,73.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.2108458892787684
+30471-1,Helicopter,2016,22,47.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.42026438859143295
+30472-1,Parrot,2016,22,43.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.4524826192549198
+30475-1,Off Roader,2017,22,33.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.5330281959136369
+30476-1,Happy Turtle,2017,22,33.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.5330281959136369
+30477-1,Colorful Chameleon,2017,22,53.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.3719370425962027
+30540-1,Yellow Flyer,2018,22,43.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.4524826192549198
+30565-1,Birthday Clown,2021,22,59.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3236096966009724
+30572-1,Race Car,2019,22,68.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.251118677608127
+30575-1,Train,2020,22,59.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3236096966009724
+30577-1,Mega Muscle Car,2021,22,63.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.29139146593748555
+30594-1,Rock Monster Truck,2022,22,54.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.363882484930331
+30642-1,Birthday Train,2023,22,58.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3316642542668441
+30644-1,Vintage Car,2023,22,59.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.3236096966009724
+30645-1,Snowman,2023,22,78.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,-0.17057310094940986
+3598-1,XXL 2000 Canister,2005,22,2000.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,4,2.235600634897136
+40025-1,Yellow Cab,2012,22,43.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.4524826192549198
+40073-1,Panda,2013,22,70.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.23500956227638356
+40078-1,Hot Dog Cart,2013,22,39.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.4847008499184067
+40079-1,Mini VW T1 Camper Van,2013,22,76.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.18668221628115328
+40108-1,Balloon Cart,2014,22,66.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.2672277929398704
+40109-1,MINI Cooper Mini Model,2014,22,59.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2010,2010,0,-0.3236096966009724
+40140-1,Flower Cart,2015,22,75.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,-0.194736773947025
+4014-1,Creator Exclusive,2003,22,500.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,3.2284502340484527
+40220-1,London Bus,2016,22,118.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,0.15160920568545866
+40221-1,Fountain,2016,22,105.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,0.046899956029126395
+4023-1,Fun and Adventure,2003,22,55.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,-0.3558279272644592
+40252-1,Mini VW Beetle,2017,22,141.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2015,2010,0,0.3368640320005081
+4026-1,"Create Your Dreams {Canister, blue top}",2003,22,100.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,0.0066271676997678285
+4027-1,"Build and Imagine {canister, red top}",2003,22,100.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,0.0066271676997678285
+4028-1,World of Bricks {Blue Bucket},2003,22,500.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,3.2284502340484527
+4029-1,Build with Bricks Bucket {Red Bucket},2003,22,500.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,3.2284502340484527
+40468-1,Yellow Taxi,2021,22,124.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,0.19993655168068894
+40469-1,Tuk Tuk,2021,22,155.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,0.44962783932271205
+40488-1,Coffee Cart,2021,22,149.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,0.40130049332748174
+40517-1,Vespa,2022,22,118.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,0.15160920568545866
+40518-1,High-Speed Train,2022,22,284.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,1.4886657782201629
+40519-1,New York Postcard,2022,22,253.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,1.2389744905781397
+40568-1,Paris Postcard,2022,22,213.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,0.9167921839432713
+40569-1,London Postcard,2022,22,277.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,1.432283874559061
+40644-1,Pinata,2023,22,206.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,0.8604102802821694
+40650-1,Land Rover Classic Defender,2023,22,149.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,0.40130049332748174
+40651-1,Australia Postcard,2023,22,191.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,0.7395919152940937
+40654-1,Beijing Postcard,2022,22,276.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2020,2020,0,1.4242293168931892
+4278-1,Blue Tub,2003,22,1000.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,4,-0.23552960056774666
+4279-1,CREATOR Strata Red {Red Tub},2003,22,1002.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,4,-0.2305873400968169
+4400-1,Creations and Bricks {Red Tub},2003,22,705.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,4,-0.964513020029887
+4405-1,Large Creator Bucket,2003,22,1305.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,4,0.5181651212490426
+4406-1,Buildings,2004,22,506.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,3.276777580043683
+4407-1,Transportation,2004,22,302.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,1.6336478162058536
+4408-1,Animals,2004,22,202.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,0.8281920496186825
+4410-1,Build and Create,2004,22,500.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,3.2284502340484527
+4411-1,Blue Strata XXL,2004,22,1201.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,4,0.2611675767606948
+4412-1,Einfallsreiches Bauen [Imaginative Building],2004,22,200.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,0.8120829342869391
+4414-1,LEGO Creator Bucket,2004,22,500.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,3.2284502340484527
+4421-1,Box of Bricks,2005,22,1000.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,4,-0.23552960056774666
+4423-1,LEGO Creator Handy Box,2005,22,800.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,4,-0.7297556476607232
+4425-1,Better Building More Fun,2004,22,2000.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,4,2.235600634897136
+4496-2,50th Anniversary Tub,2005,22,1000.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,4,-0.23552960056774666
+4496-3,Fun with Building Tub - Reissue,2006,22,806.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,4,-0.714928866247934
+4497-1,Pretend and Create,2004,22,1000.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,4,-0.23552960056774666
+4518-1,Creator Set,2004,22,805.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,4,-0.7173999964833988
+4538-1,Special Edition,2004,22,201.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,0.8201374919528108
+4548431-1,Brick Tub 'Die Lego Show' - Limited Edition,2008,22,701.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,4,-0.9743975409717466
+4562-1,Creator Box,2004,22,200.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,0.8120829342869391
+4696-1,Blue Bucket,2004,22,200.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,0.8120829342869391
+4780-1,Box of Bricks,2005,22,500.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,3.2284502340484527
+4781-1,Box of Bricks,2005,22,300.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,1.6175387008741102
+4782-1,Box of Bricks,2005,22,200.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,0.8120829342869391
+4782-2,Creator 200 Piece Box of Bricks - Individual Retail Version,2005,22,200.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,0.8120829342869391
+4891-1,Highway Haulers,2006,22,210.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,0.8926285109456562
+4892-1,Prehistoric Power,2006,22,380.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,2.261903314143847
+4893-1,Revvin' Riders,2006,22,361.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,2.1088667184922847
+4894-1,Mythical Creatures,2006,22,588.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,3.9372513086451635
+4919-1,Blue Tub,2005,22,1500.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,4,1.0000355171646949
+5369-1,Creator Tub,2005,22,700.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,4,-0.9768686712072115
+628-3,X-Large Gray Baseplate (Lt Bluish Gray),2003,22,1.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2000,2000,0,-0.7907740412215317
+7271-1,Apple - Suntory Promotional,2005,22,9.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.726337579894558
+7272-1,Pear - Suntory Promotional,2005,22,11.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.7102284645628146
+7274-1,Orange - Suntory Promotional,2005,22,9.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.726337579894558
+7275-1,Cherry - Suntory Promotional,2005,22,12.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.7021739068969429
+7276-1,Mango - Suntory Promotional,2005,22,7.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.7424466952263015
+7278-1,Melon - Suntory Promotional,2005,22,9.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.726337579894558
+7601-1,Go-Kart,2006,22,42.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.4605371769207915
+7602-1,Jeep,2006,22,46.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.42831894625730466
+7603-1,Dump Truck,2006,22,33.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5330281959136369
+7604-1,Triceratops,2006,22,34.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5249736382477652
+7605-1,Stegosaurus,2006,22,47.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.42026438859143295
+7606-1,Frog,2006,22,33.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5330281959136369
+7607-1,Butterfly,2006,22,29.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5652464265771238
+7608-1,Dolphin,2006,22,27.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5813555419088672
+7609-1,Helicopter,2006,22,28.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5733009842429955
+7610-1,Speedboat,2006,22,18.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.6538465609017127
+7796-1,House,2008,22,54.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.363882484930331
+7797-1,Bi-Plane,2008,22,37.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5008099652501501
+7798-1,Stegosaurus,2008,22,48.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.41220983092556124
+7799-1,Cargo Chopper,2008,22,40.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.47664629225253496
+7803-1,Jeep,2009,22,38.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.4927554075842784
+7804-1,Green Lizard,2009,22,33.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5330281959136369
+7805-1,Shark,2009,22,44.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.4444280615890481
+7806-1,Truck,2009,22,36.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5088645229160218
+7807-1,Airliner,2009,22,34.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5249736382477652
+7808-1,Yellow Airplane,2009,22,34.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5249736382477652
+7870-1,Hans Christian Andersen Bucket,2005,22,503.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,3.252613907046068
+7871-1,Whale,2007,22,31.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.5491373112453803
+7872-1,Lion,2007,22,57.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.3397188119327158
+7873-1,Airplane,2007,22,38.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.4927554075842784
+7875-1,Backhoe,2007,22,39.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.4847008499184067
+7876-1,Cement Mixer,2007,22,44.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.4444280615890481
+fruit1-1,Apple - Hong Kong Lego Show Promotional,2007,22,9.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.726337579894558
+fruit2-1,Cherry - Hong Kong Lego Show Promotional,2007,22,12.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.7021739068969429
+fruit3-1,Grapes - Hong Kong Lego Show Promotional,2007,22,8.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.7343921375604298
+fruit4-1,Mango - Hong Kong Lego Show Promotional,2007,22,7.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.7424466952263015
+fruit5-1,Melon - Hong Kong Lego Show Promotional,2007,22,9.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.726337579894558
+fruit6-1,Orange - Hong Kong Lego Show Promotional,2007,22,9.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.726337579894558
+fruit7-1,Pear - Hong Kong Lego Show Promotional,2007,22,11.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.7102284645628146
+fruit8-1,Tree - Hong Kong Lego Show Promotional,2007,22,1.0,22,777,777,Main_noparent,Creator,1,main,Creator,Creator,notgiven,notgiven,2005,2000,0,-0.7907740412215317
