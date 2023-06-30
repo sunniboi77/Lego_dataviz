@@ -17,9 +17,9 @@ tema_103 = pd.read_csv("dataset/tema_103.csv", delimiter=",")
 # Load the image URL
 
 
-st.write(setthemesets_year.head(3))
+# st.write(setthemesets_year.head(3))
 
-st.write("hello")
+st.write("area stacked cumulated number of sets")
 
 
 # Set the figure size and create subplots

@@ -14,7 +14,13 @@ creatorpivot = pd.read_csv("dataset/creatorpivot_105.csv", delimiter=",")
 
 st.write("CREATOR")
 
-st.write(creator.head(3))
+# st.write(creator.head(3))
+
+st.write(
+    "Creator sets are 20 years old, I have clusterized the sets, but it would have been be able to do it with pd.cut as well"
+)
+st.write("the sets are clustered based on the number of items they contain")
+st.write("After 2005 Lego changed its strategy")
 
 # Display a boxplot for clusters using Plotly
 fig = px.box(creator, x="Cluster", y="num_parts")
